@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 285751907}
   - component: {fileID: 285751906}
   m_Layer: 0
-  m_Name: EJERCICIO 01
+  m_Name: Ejercicio 01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

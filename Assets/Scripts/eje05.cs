@@ -14,13 +14,15 @@ public class eje05 : MonoBehaviour
  
     void Start()
     {
+        float num1float = (float)num1;
+        float num2float = (float)num2;
         if (num2 == 0)
         {
             Debug.Log("No se puede dividir por 0");
         }
         else
         {
-            Debug.Log(num1 + " / " + num2 + " = " + (num1 / num2));
+            Debug.Log(num1 + " / " + num2 + " = " + (num1float / num2float));
         }
     
 
